@@ -1,0 +1,50 @@
+name: Repo size watchdog
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'   # weekly, Sunday 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check-size:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Measure repo size
+        id: size
+        run: |
+          git count-objects -vH
+          LOOSE_KB=$(git count-objects -v | awk -F': ' '/^size:/ {print $2}')
+          PACK_KB=$(git count-objects -v | awk -F': ' '/^size-pack:/ {print $2}')
+          TOTAL_BYTES=$(( (LOOSE_KB + PACK_KB) * 1024 ))
+          echo "total_bytes=$TOTAL_BYTES" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update an issue past 1 GB
+        if: ${{ fromJSON(steps.size.outputs.total_bytes) >= 1073741824 }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOTAL_BYTES: ${{ steps.size.outputs.total_bytes }}
+        run: |
+          GB=$(awk "BEGIN { printf \"%.2f\", $TOTAL_BYTES / 1073741824 }")
+          # Archive repo rolls at 3.5 GB (plan section 1.5), not 3 GB like the active repo.
+          if [ "$TOTAL_BYTES" -ge 3758096384 ]; then
+            LEVEL="ROLL"
+            BODY="Repo has crossed 3.5 GB (${GB} GB). Per the dynamic-art plan (section 1.5): freeze this repo and open nuvio-art-archive-2. Bump the 'volume' marker in manifest.json for future writes."
+          else
+            LEVEL="WARN"
+            BODY="Repo has crossed 1 GB (${GB} GB). No action needed yet -- 3.5 GB is the roll threshold."
+          fi
+          TITLE="[$LEVEL] Repo size watchdog: ${GB} GB"
+          EXISTING=$(gh issue list --search "Repo size watchdog in:title" --state open --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "$BODY"
+          else
+            gh issue create --title "$TITLE" --body "$BODY"
+          fi
