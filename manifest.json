@@ -80,7 +80,33 @@
         "hover": 374872,
         "thumb": 13362
       }
+    },
+    {
+      "id": "2026-08-05-supergirl",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-05",
+      "created_at": "2026-08-05T17:40:09Z",
+      "movie_title": "Supergirl",
+      "movie_id": 1081003,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-05-supergirl-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-05-supergirl-cover.png",
+        "hover": "genres/action/2026/2026-08-05-supergirl-hover.gif",
+        "thumb": "genres/action/2026/2026-08-05-supergirl-thumb.webp"
+      },
+      "bytes": {
+        "cover": 460403,
+        "hover": 561114,
+        "thumb": 18360
+      }
     }
   ],
-  "updated_at": "2026-08-05T17:38:33Z"
+  "updated_at": "2026-08-05T17:40:09Z"
 }
