@@ -3668,7 +3668,33 @@
         "hover": 367788,
         "thumb": 14044
       }
+    },
+    {
+      "id": "2026-08-06-pink-floyd-live-at-pompeii",
+      "target_id": "documentaries/music-and-concert-documentaries",
+      "collection_slug": "documentaries",
+      "folder_slug": "music-and-concert-documentaries",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T16:32:54Z",
+      "movie_title": "Pink Floyd: Live at Pompeii",
+      "movie_id": 25771,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-cover.png",
+        "hover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-hover.gif",
+        "thumb": "documentaries/music-and-concert-documentaries/2026/2026-08-06-pink-floyd-live-at-pompeii-thumb.webp"
+      },
+      "bytes": {
+        "cover": 140478,
+        "hover": 213724,
+        "thumb": 9280
+      }
     }
   ],
-  "updated_at": "2026-08-06T15:19:58Z"
+  "updated_at": "2026-08-06T16:32:54Z"
 }
