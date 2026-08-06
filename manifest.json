@@ -2030,7 +2030,33 @@
         "hover": 367761,
         "thumb": 14184
       }
+    },
+    {
+      "id": "2026-08-06-la-la-land",
+      "target_id": "moods-and-vibes/cozy-and-comforting",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "cozy-and-comforting",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:10:10Z",
+      "movie_title": "La La Land",
+      "movie_id": 313369,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-cover.png",
+        "hover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-hover.gif",
+        "thumb": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-la-la-land-thumb.webp"
+      },
+      "bytes": {
+        "cover": 192910,
+        "hover": 283561,
+        "thumb": 8014
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:10:01Z"
+  "updated_at": "2026-08-06T05:10:10Z"
 }
