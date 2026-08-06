@@ -1978,7 +1978,33 @@
         "hover": 587318,
         "thumb": 33684
       }
+    },
+    {
+      "id": "2026-08-06-cosmos-a-personal-voyage",
+      "target_id": "documentaries/science-tech-and-cosmos",
+      "collection_slug": "documentaries",
+      "folder_slug": "science-tech-and-cosmos",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:09:53Z",
+      "movie_title": "Cosmos: A Personal Voyage",
+      "movie_id": 1430,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-cover.png",
+        "hover": "documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-hover.gif",
+        "thumb": "documentaries/science-tech-and-cosmos/2026/2026-08-06-cosmos-a-personal-voyage-thumb.webp"
+      },
+      "bytes": {
+        "cover": 439639,
+        "hover": 516769,
+        "thumb": 21250
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:09:44Z"
+  "updated_at": "2026-08-06T05:09:53Z"
 }
