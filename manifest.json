@@ -1848,7 +1848,33 @@
         "hover": 255175,
         "thumb": 8058
       }
+    },
+    {
+      "id": "2026-08-06-the-crash",
+      "target_id": "documentaries/true-crime-and-serial-killers",
+      "collection_slug": "documentaries",
+      "folder_slug": "true-crime-and-serial-killers",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:09:14Z",
+      "movie_title": "The Crash",
+      "movie_id": 1662317,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-cover.png",
+        "hover": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-hover.gif",
+        "thumb": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-the-crash-thumb.webp"
+      },
+      "bytes": {
+        "cover": 224284,
+        "hover": 319280,
+        "thumb": 8680
+      }
     }
   ],
-  "updated_at": "2026-08-06T04:41:38Z"
+  "updated_at": "2026-08-06T05:09:14Z"
 }
