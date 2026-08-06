@@ -3798,7 +3798,33 @@
         "hover": 305860,
         "thumb": 10354
       }
+    },
+    {
+      "id": "2026-08-06-trainwreck-woodstock-99",
+      "target_id": "documentaries/music-and-concert-documentaries",
+      "collection_slug": "documentaries",
+      "folder_slug": "music-and-concert-documentaries",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T16:48:03Z",
+      "movie_title": "Trainwreck: Woodstock '99",
+      "movie_id": 206246,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-cover.png",
+        "hover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-hover.gif",
+        "thumb": "documentaries/music-and-concert-documentaries/2026/2026-08-06-trainwreck-woodstock-99-thumb.webp"
+      },
+      "bytes": {
+        "cover": 457537,
+        "hover": 453967,
+        "thumb": 26054
+      }
     }
   ],
-  "updated_at": "2026-08-06T16:45:37Z"
+  "updated_at": "2026-08-06T16:48:03Z"
 }
