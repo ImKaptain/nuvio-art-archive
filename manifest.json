@@ -1692,7 +1692,59 @@
         "hover": 282285,
         "thumb": 9326
       }
+    },
+    {
+      "id": "2026-08-06-the-last-dance",
+      "target_id": "documentaries/sports-and-athletic-stories",
+      "collection_slug": "documentaries",
+      "folder_slug": "sports-and-athletic-stories",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T04:35:58Z",
+      "movie_title": "The Last Dance",
+      "movie_id": 79525,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-cover.png",
+        "hover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-hover.gif",
+        "thumb": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-last-dance-thumb.webp"
+      },
+      "bytes": {
+        "cover": 313167,
+        "hover": 398426,
+        "thumb": 15002
+      }
+    },
+    {
+      "id": "2026-08-06-the-art-of-flight",
+      "target_id": "documentaries/sports-and-athletic-stories",
+      "collection_slug": "documentaries",
+      "folder_slug": "sports-and-athletic-stories",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T04:36:55Z",
+      "movie_title": "The Art of Flight",
+      "movie_id": 68450,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-cover.png",
+        "hover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-hover.gif",
+        "thumb": "documentaries/sports-and-athletic-stories/2026/2026-08-06-the-art-of-flight-thumb.webp"
+      },
+      "bytes": {
+        "cover": 234984,
+        "hover": 309197,
+        "thumb": 14024
+      }
     }
   ],
-  "updated_at": "2026-08-06T04:34:56Z"
+  "updated_at": "2026-08-06T04:36:55Z"
 }
