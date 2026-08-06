@@ -2108,7 +2108,33 @@
         "hover": 256359,
         "thumb": 9502
       }
+    },
+    {
+      "id": "2026-08-06-spider-man-brand-new-day",
+      "target_id": "genres/action",
+      "collection_slug": "genres",
+      "folder_slug": "action",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T15:18:19Z",
+      "movie_title": "Spider-Man: Brand New Day",
+      "movie_id": 969681,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-06-spider-man-brand-new-day-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-06-spider-man-brand-new-day-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/action/2026/2026-08-06-spider-man-brand-new-day-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/action/2026/2026-08-06-spider-man-brand-new-day-cover.png",
+        "hover": "genres/action/2026/2026-08-06-spider-man-brand-new-day-hover.gif",
+        "thumb": "genres/action/2026/2026-08-06-spider-man-brand-new-day-thumb.webp"
+      },
+      "bytes": {
+        "cover": 367574,
+        "hover": 466658,
+        "thumb": 10838
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:10:26Z"
+  "updated_at": "2026-08-06T15:18:19Z"
 }
