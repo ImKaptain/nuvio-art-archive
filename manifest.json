@@ -132,7 +132,1515 @@
         "hover": 562215,
         "thumb": 10560
       }
+    },
+    {
+      "id": "2026-08-06-the-death-of-robin-hood",
+      "target_id": "genres/adventure",
+      "collection_slug": "genres",
+      "folder_slug": "adventure",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Death of Robin Hood",
+      "movie_id": 1284465,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/adventure/2026/2026-08-06-the-death-of-robin-hood-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/adventure/2026/2026-08-06-the-death-of-robin-hood-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/adventure/2026/2026-08-06-the-death-of-robin-hood-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/adventure/2026/2026-08-06-the-death-of-robin-hood-cover.png",
+        "hover": "genres/adventure/2026/2026-08-06-the-death-of-robin-hood-hover.gif",
+        "thumb": "genres/adventure/2026/2026-08-06-the-death-of-robin-hood-thumb.webp"
+      },
+      "bytes": {
+        "cover": 383576,
+        "hover": 480803,
+        "thumb": 9410
+      }
+    },
+    {
+      "id": "2026-08-06-avatar-aang-the-last-airbender",
+      "target_id": "genres/animation",
+      "collection_slug": "genres",
+      "folder_slug": "animation",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Avatar Aang: The Last Airbender",
+      "movie_id": 980431,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-cover.png",
+        "hover": "genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-hover.gif",
+        "thumb": "genres/animation/2026/2026-08-06-avatar-aang-the-last-airbender-thumb.webp"
+      },
+      "bytes": {
+        "cover": 296013,
+        "hover": 367132,
+        "thumb": 13524
+      }
+    },
+    {
+      "id": "2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle",
+      "target_id": "genres/anime",
+      "collection_slug": "genres",
+      "folder_slug": "anime",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "movie_id": 1311031,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-cover.png",
+        "hover": "genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-hover.gif",
+        "thumb": "genres/anime/2026/2026-08-06-demon-slayer-kimetsu-no-yaiba-infinity-castle-thumb.webp"
+      },
+      "bytes": {
+        "cover": 724757,
+        "hover": 797207,
+        "thumb": 40466
+      }
+    },
+    {
+      "id": "2026-08-06-moana",
+      "target_id": "genres/comedy",
+      "collection_slug": "genres",
+      "folder_slug": "comedy",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Moana",
+      "movie_id": 1108427,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/comedy/2026/2026-08-06-moana-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/comedy/2026/2026-08-06-moana-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/comedy/2026/2026-08-06-moana-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/comedy/2026/2026-08-06-moana-cover.png",
+        "hover": "genres/comedy/2026/2026-08-06-moana-hover.gif",
+        "thumb": "genres/comedy/2026/2026-08-06-moana-thumb.webp"
+      },
+      "bytes": {
+        "cover": 503397,
+        "hover": 609796,
+        "thumb": 17648
+      }
+    },
+    {
+      "id": "2026-08-06-72-hours",
+      "target_id": "genres/crime",
+      "collection_slug": "genres",
+      "folder_slug": "crime",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "72 HOURS",
+      "movie_id": 949838,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/crime/2026/2026-08-06-72-hours-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/crime/2026/2026-08-06-72-hours-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/crime/2026/2026-08-06-72-hours-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/crime/2026/2026-08-06-72-hours-cover.png",
+        "hover": "genres/crime/2026/2026-08-06-72-hours-hover.gif",
+        "thumb": "genres/crime/2026/2026-08-06-72-hours-thumb.webp"
+      },
+      "bytes": {
+        "cover": 798539,
+        "hover": 857442,
+        "thumb": 23132
+      }
+    },
+    {
+      "id": "2026-08-06-the-perfect-neighbor",
+      "target_id": "genres/documentary",
+      "collection_slug": "genres",
+      "folder_slug": "documentary",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Perfect Neighbor",
+      "movie_id": 1400782,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/documentary/2026/2026-08-06-the-perfect-neighbor-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/documentary/2026/2026-08-06-the-perfect-neighbor-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/documentary/2026/2026-08-06-the-perfect-neighbor-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/documentary/2026/2026-08-06-the-perfect-neighbor-cover.png",
+        "hover": "genres/documentary/2026/2026-08-06-the-perfect-neighbor-hover.gif",
+        "thumb": "genres/documentary/2026/2026-08-06-the-perfect-neighbor-thumb.webp"
+      },
+      "bytes": {
+        "cover": 215987,
+        "hover": 280706,
+        "thumb": 6146
+      }
+    },
+    {
+      "id": "2026-08-06-the-punisher-one-last-kill",
+      "target_id": "genres/drama",
+      "collection_slug": "genres",
+      "folder_slug": "drama",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Punisher: One Last Kill",
+      "movie_id": 1439930,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/drama/2026/2026-08-06-the-punisher-one-last-kill-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/drama/2026/2026-08-06-the-punisher-one-last-kill-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/drama/2026/2026-08-06-the-punisher-one-last-kill-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/drama/2026/2026-08-06-the-punisher-one-last-kill-cover.png",
+        "hover": "genres/drama/2026/2026-08-06-the-punisher-one-last-kill-hover.gif",
+        "thumb": "genres/drama/2026/2026-08-06-the-punisher-one-last-kill-thumb.webp"
+      },
+      "bytes": {
+        "cover": 471431,
+        "hover": 557943,
+        "thumb": 10628
+      }
+    },
+    {
+      "id": "2026-08-06-minions-and-monsters",
+      "target_id": "genres/family",
+      "collection_slug": "genres",
+      "folder_slug": "family",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Minions & Monsters",
+      "movie_id": 1315772,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/family/2026/2026-08-06-minions-and-monsters-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/family/2026/2026-08-06-minions-and-monsters-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/family/2026/2026-08-06-minions-and-monsters-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/family/2026/2026-08-06-minions-and-monsters-cover.png",
+        "hover": "genres/family/2026/2026-08-06-minions-and-monsters-hover.gif",
+        "thumb": "genres/family/2026/2026-08-06-minions-and-monsters-thumb.webp"
+      },
+      "bytes": {
+        "cover": 287236,
+        "hover": 356247,
+        "thumb": 16384
+      }
+    },
+    {
+      "id": "2026-08-06-ladies-first",
+      "target_id": "genres/fantasy",
+      "collection_slug": "genres",
+      "folder_slug": "fantasy",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Ladies First",
+      "movie_id": 1368881,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/fantasy/2026/2026-08-06-ladies-first-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/fantasy/2026/2026-08-06-ladies-first-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/fantasy/2026/2026-08-06-ladies-first-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/fantasy/2026/2026-08-06-ladies-first-cover.png",
+        "hover": "genres/fantasy/2026/2026-08-06-ladies-first-hover.gif",
+        "thumb": "genres/fantasy/2026/2026-08-06-ladies-first-thumb.webp"
+      },
+      "bytes": {
+        "cover": 304131,
+        "hover": 384022,
+        "thumb": 13930
+      }
+    },
+    {
+      "id": "2026-08-06-the-testament-of-ann-lee",
+      "target_id": "genres/history",
+      "collection_slug": "genres",
+      "folder_slug": "history",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Testament of Ann Lee",
+      "movie_id": 1401281,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/history/2026/2026-08-06-the-testament-of-ann-lee-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/history/2026/2026-08-06-the-testament-of-ann-lee-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/history/2026/2026-08-06-the-testament-of-ann-lee-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/history/2026/2026-08-06-the-testament-of-ann-lee-cover.png",
+        "hover": "genres/history/2026/2026-08-06-the-testament-of-ann-lee-hover.gif",
+        "thumb": "genres/history/2026/2026-08-06-the-testament-of-ann-lee-thumb.webp"
+      },
+      "bytes": {
+        "cover": 524891,
+        "hover": 621698,
+        "thumb": 9262
+      }
+    },
+    {
+      "id": "2026-08-06-hokum",
+      "target_id": "genres/horror",
+      "collection_slug": "genres",
+      "folder_slug": "horror",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Hokum",
+      "movie_id": 1430077,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/horror/2026/2026-08-06-hokum-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/horror/2026/2026-08-06-hokum-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/horror/2026/2026-08-06-hokum-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/horror/2026/2026-08-06-hokum-cover.png",
+        "hover": "genres/horror/2026/2026-08-06-hokum-hover.gif",
+        "thumb": "genres/horror/2026/2026-08-06-hokum-thumb.webp"
+      },
+      "bytes": {
+        "cover": 241675,
+        "hover": 328644,
+        "thumb": 10734
+      }
+    },
+    {
+      "id": "2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny",
+      "target_id": "genres/martial-arts",
+      "collection_slug": "genres",
+      "folder_slug": "martial-arts",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+      "movie_id": 263341,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-cover.png",
+        "hover": "genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-hover.gif",
+        "thumb": "genres/martial-arts/2026/2026-08-06-crouching-tiger-hidden-dragon-sword-of-destiny-thumb.webp"
+      },
+      "bytes": {
+        "cover": 295018,
+        "hover": 375087,
+        "thumb": 11642
+      }
+    },
+    {
+      "id": "2026-08-06-springsteen-deliver-me-from-nowhere",
+      "target_id": "genres/music-musical",
+      "collection_slug": "genres",
+      "folder_slug": "music-musical",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Springsteen: Deliver Me from Nowhere",
+      "movie_id": 1230368,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-cover.png",
+        "hover": "genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-hover.gif",
+        "thumb": "genres/music-musical/2026/2026-08-06-springsteen-deliver-me-from-nowhere-thumb.webp"
+      },
+      "bytes": {
+        "cover": 354456,
+        "hover": 448705,
+        "thumb": 7546
+      }
+    },
+    {
+      "id": "2026-08-06-remarkably-bright-creatures",
+      "target_id": "genres/mystery",
+      "collection_slug": "genres",
+      "folder_slug": "mystery",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Remarkably Bright Creatures",
+      "movie_id": 1330021,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/mystery/2026/2026-08-06-remarkably-bright-creatures-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/mystery/2026/2026-08-06-remarkably-bright-creatures-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/mystery/2026/2026-08-06-remarkably-bright-creatures-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/mystery/2026/2026-08-06-remarkably-bright-creatures-cover.png",
+        "hover": "genres/mystery/2026/2026-08-06-remarkably-bright-creatures-hover.gif",
+        "thumb": "genres/mystery/2026/2026-08-06-remarkably-bright-creatures-thumb.webp"
+      },
+      "bytes": {
+        "cover": 394453,
+        "hover": 463363,
+        "thumb": 16986
+      }
+    },
+    {
+      "id": "2026-08-06-heartstopper-forever",
+      "target_id": "genres/romance",
+      "collection_slug": "genres",
+      "folder_slug": "romance",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Heartstopper Forever",
+      "movie_id": 1468683,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romance/2026/2026-08-06-heartstopper-forever-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romance/2026/2026-08-06-heartstopper-forever-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romance/2026/2026-08-06-heartstopper-forever-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/romance/2026/2026-08-06-heartstopper-forever-cover.png",
+        "hover": "genres/romance/2026/2026-08-06-heartstopper-forever-hover.gif",
+        "thumb": "genres/romance/2026/2026-08-06-heartstopper-forever-thumb.webp"
+      },
+      "bytes": {
+        "cover": 259871,
+        "hover": 342404,
+        "thumb": 7146
+      }
+    },
+    {
+      "id": "2026-08-06-solo-mio",
+      "target_id": "genres/romantic-comedy",
+      "collection_slug": "genres",
+      "folder_slug": "romantic-comedy",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Solo Mio",
+      "movie_id": 1291335,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romantic-comedy/2026/2026-08-06-solo-mio-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romantic-comedy/2026/2026-08-06-solo-mio-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/romantic-comedy/2026/2026-08-06-solo-mio-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/romantic-comedy/2026/2026-08-06-solo-mio-cover.png",
+        "hover": "genres/romantic-comedy/2026/2026-08-06-solo-mio-hover.gif",
+        "thumb": "genres/romantic-comedy/2026/2026-08-06-solo-mio-thumb.webp"
+      },
+      "bytes": {
+        "cover": 290774,
+        "hover": 344232,
+        "thumb": 12652
+      }
+    },
+    {
+      "id": "2026-08-06-supergirl",
+      "target_id": "genres/science-fiction",
+      "collection_slug": "genres",
+      "folder_slug": "science-fiction",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Supergirl",
+      "movie_id": 1081003,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/science-fiction/2026/2026-08-06-supergirl-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/science-fiction/2026/2026-08-06-supergirl-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/science-fiction/2026/2026-08-06-supergirl-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/science-fiction/2026/2026-08-06-supergirl-cover.png",
+        "hover": "genres/science-fiction/2026/2026-08-06-supergirl-hover.gif",
+        "thumb": "genres/science-fiction/2026/2026-08-06-supergirl-thumb.webp"
+      },
+      "bytes": {
+        "cover": 450453,
+        "hover": 508131,
+        "thumb": 19864
+      }
+    },
+    {
+      "id": "2026-08-06-goat",
+      "target_id": "genres/sports",
+      "collection_slug": "genres",
+      "folder_slug": "sports",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "GOAT",
+      "movie_id": 1297842,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/sports/2026/2026-08-06-goat-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/sports/2026/2026-08-06-goat-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/sports/2026/2026-08-06-goat-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/sports/2026/2026-08-06-goat-cover.png",
+        "hover": "genres/sports/2026/2026-08-06-goat-hover.gif",
+        "thumb": "genres/sports/2026/2026-08-06-goat-thumb.webp"
+      },
+      "bytes": {
+        "cover": 663947,
+        "hover": 761864,
+        "thumb": 32198
+      }
+    },
+    {
+      "id": "2026-08-06-ricky-gervais-armageddon",
+      "target_id": "genres/stand-up-comedy",
+      "collection_slug": "genres",
+      "folder_slug": "stand-up-comedy",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Ricky Gervais: Armageddon",
+      "movie_id": 1208476,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-cover.png",
+        "hover": "genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-hover.gif",
+        "thumb": "genres/stand-up-comedy/2026/2026-08-06-ricky-gervais-armageddon-thumb.webp"
+      },
+      "bytes": {
+        "cover": 148781,
+        "hover": 236499,
+        "thumb": 6064
+      }
+    },
+    {
+      "id": "2026-08-06-supergirl",
+      "target_id": "genres/superhero",
+      "collection_slug": "genres",
+      "folder_slug": "superhero",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Supergirl",
+      "movie_id": 1081003,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/superhero/2026/2026-08-06-supergirl-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/superhero/2026/2026-08-06-supergirl-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/superhero/2026/2026-08-06-supergirl-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/superhero/2026/2026-08-06-supergirl-cover.png",
+        "hover": "genres/superhero/2026/2026-08-06-supergirl-hover.gif",
+        "thumb": "genres/superhero/2026/2026-08-06-supergirl-thumb.webp"
+      },
+      "bytes": {
+        "cover": 460419,
+        "hover": 553856,
+        "thumb": 19094
+      }
+    },
+    {
+      "id": "2026-08-06-the-devil-s-mouth",
+      "target_id": "genres/thriller",
+      "collection_slug": "genres",
+      "folder_slug": "thriller",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Devil's Mouth",
+      "movie_id": 1481343,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/thriller/2026/2026-08-06-the-devil-s-mouth-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/thriller/2026/2026-08-06-the-devil-s-mouth-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/thriller/2026/2026-08-06-the-devil-s-mouth-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/thriller/2026/2026-08-06-the-devil-s-mouth-cover.png",
+        "hover": "genres/thriller/2026/2026-08-06-the-devil-s-mouth-hover.gif",
+        "thumb": "genres/thriller/2026/2026-08-06-the-devil-s-mouth-thumb.webp"
+      },
+      "bytes": {
+        "cover": 512223,
+        "hover": 603352,
+        "thumb": 14422
+      }
+    },
+    {
+      "id": "2026-08-06-dirty-angels",
+      "target_id": "genres/war",
+      "collection_slug": "genres",
+      "folder_slug": "war",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Dirty Angels",
+      "movie_id": 1043905,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/war/2026/2026-08-06-dirty-angels-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/war/2026/2026-08-06-dirty-angels-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/war/2026/2026-08-06-dirty-angels-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/war/2026/2026-08-06-dirty-angels-cover.png",
+        "hover": "genres/war/2026/2026-08-06-dirty-angels-hover.gif",
+        "thumb": "genres/war/2026/2026-08-06-dirty-angels-thumb.webp"
+      },
+      "bytes": {
+        "cover": 460583,
+        "hover": 530958,
+        "thumb": 14866
+      }
+    },
+    {
+      "id": "2026-08-06-rust",
+      "target_id": "genres/western",
+      "collection_slug": "genres",
+      "folder_slug": "western",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Rust",
+      "movie_id": 710258,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/western/2026/2026-08-06-rust-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/western/2026/2026-08-06-rust-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/western/2026/2026-08-06-rust-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/western/2026/2026-08-06-rust-cover.png",
+        "hover": "genres/western/2026/2026-08-06-rust-hover.gif",
+        "thumb": "genres/western/2026/2026-08-06-rust-thumb.webp"
+      },
+      "bytes": {
+        "cover": 313472,
+        "hover": 387751,
+        "thumb": 13196
+      }
+    },
+    {
+      "id": "2026-08-06-forrest-gump",
+      "target_id": "moods-and-vibes/cozy-and-comforting",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "cozy-and-comforting",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Forrest Gump",
+      "movie_id": 13,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-cover.png",
+        "hover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-hover.gif",
+        "thumb": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-forrest-gump-thumb.webp"
+      },
+      "bytes": {
+        "cover": 168961,
+        "hover": 238811,
+        "thumb": 8446
+      }
+    },
+    {
+      "id": "2026-08-06-war-machine",
+      "target_id": "moods-and-vibes/mind-bending",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "mind-bending",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "War Machine",
+      "movie_id": 1265609,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-cover.png",
+        "hover": "moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-hover.gif",
+        "thumb": "moods-and-vibes/mind-bending/2026/2026-08-06-war-machine-thumb.webp"
+      },
+      "bytes": {
+        "cover": 185800,
+        "hover": 274782,
+        "thumb": 7236
+      }
+    },
+    {
+      "id": "2026-08-06-the-odyssey",
+      "target_id": "moods-and-vibes/adrenaline-rush",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "adrenaline-rush",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Odyssey",
+      "movie_id": 1368337,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-cover.png",
+        "hover": "moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-hover.gif",
+        "thumb": "moods-and-vibes/adrenaline-rush/2026/2026-08-06-the-odyssey-thumb.webp"
+      },
+      "bytes": {
+        "cover": 222711,
+        "hover": 309989,
+        "thumb": 7820
+      }
+    },
+    {
+      "id": "2026-08-06-the-imitation-game",
+      "target_id": "moods-and-vibes/epic-and-sweeping",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "epic-and-sweeping",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Imitation Game",
+      "movie_id": 205596,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-cover.png",
+        "hover": "moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-hover.gif",
+        "thumb": "moods-and-vibes/epic-and-sweeping/2026/2026-08-06-the-imitation-game-thumb.webp"
+      },
+      "bytes": {
+        "cover": 213081,
+        "hover": 295217,
+        "thumb": 9272
+      }
+    },
+    {
+      "id": "2026-08-06-voicemails-for-isabelle",
+      "target_id": "moods-and-vibes/feel-good",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "feel-good",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Voicemails for Isabelle",
+      "movie_id": 614945,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-cover.png",
+        "hover": "moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-hover.gif",
+        "thumb": "moods-and-vibes/feel-good/2026/2026-08-06-voicemails-for-isabelle-thumb.webp"
+      },
+      "bytes": {
+        "cover": 179901,
+        "hover": 250500,
+        "thumb": 8920
+      }
+    },
+    {
+      "id": "2026-08-06-the-sixth-sense",
+      "target_id": "moods-and-vibes/slow-burn",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "slow-burn",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Sixth Sense",
+      "movie_id": 745,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-cover.png",
+        "hover": "moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-hover.gif",
+        "thumb": "moods-and-vibes/slow-burn/2026/2026-08-06-the-sixth-sense-thumb.webp"
+      },
+      "bytes": {
+        "cover": 171233,
+        "hover": 249118,
+        "thumb": 6878
+      }
+    },
+    {
+      "id": "2026-08-06-forrest-gump",
+      "target_id": "moods-and-vibes/tearjerkers",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "tearjerkers",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Forrest Gump",
+      "movie_id": 13,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-cover.png",
+        "hover": "moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-hover.gif",
+        "thumb": "moods-and-vibes/tearjerkers/2026/2026-08-06-forrest-gump-thumb.webp"
+      },
+      "bytes": {
+        "cover": 156634,
+        "hover": 222395,
+        "thumb": 7350
+      }
+    },
+    {
+      "id": "2026-08-06-scarface",
+      "target_id": "moods-and-vibes/80s-and-90s-vibes",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "80s-and-90s-vibes",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Scarface",
+      "movie_id": 111,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-cover.png",
+        "hover": "moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-hover.gif",
+        "thumb": "moods-and-vibes/80s-and-90s-vibes/2026/2026-08-06-scarface-thumb.webp"
+      },
+      "bytes": {
+        "cover": 219545,
+        "hover": 308113,
+        "thumb": 8292
+      }
+    },
+    {
+      "id": "2026-08-06-shelter",
+      "target_id": "moods-and-vibes/dark-and-gritty",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "dark-and-gritty",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Shelter",
+      "movie_id": 1290821,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-cover.png",
+        "hover": "moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-hover.gif",
+        "thumb": "moods-and-vibes/dark-and-gritty/2026/2026-08-06-shelter-thumb.webp"
+      },
+      "bytes": {
+        "cover": 248224,
+        "hover": 336920,
+        "thumb": 9978
+      }
+    },
+    {
+      "id": "2026-08-06-the-conjuring-last-rites",
+      "target_id": "moods-and-vibes/spooky-and-creepy",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "spooky-and-creepy",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Conjuring: Last Rites",
+      "movie_id": 1038392,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-cover.png",
+        "hover": "moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-hover.gif",
+        "thumb": "moods-and-vibes/spooky-and-creepy/2026/2026-08-06-the-conjuring-last-rites-thumb.webp"
+      },
+      "bytes": {
+        "cover": 173796,
+        "hover": 267136,
+        "thumb": 8480
+      }
+    },
+    {
+      "id": "2026-08-06-slam-dunk",
+      "target_id": "anime/discover-anime",
+      "collection_slug": "anime",
+      "folder_slug": "discover-anime",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Slam Dunk",
+      "movie_id": 42573,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/discover-anime/2026/2026-08-06-slam-dunk-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/discover-anime/2026/2026-08-06-slam-dunk-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/discover-anime/2026/2026-08-06-slam-dunk-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/discover-anime/2026/2026-08-06-slam-dunk-cover.png",
+        "hover": "anime/discover-anime/2026/2026-08-06-slam-dunk-hover.gif",
+        "thumb": "anime/discover-anime/2026/2026-08-06-slam-dunk-thumb.webp"
+      },
+      "bytes": {
+        "cover": 420516,
+        "hover": 482225,
+        "thumb": 18312
+      }
+    },
+    {
+      "id": "2026-08-06-bleach",
+      "target_id": "anime/shonen-and-action-anime",
+      "collection_slug": "anime",
+      "folder_slug": "shonen-and-action-anime",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Bleach",
+      "movie_id": 30984,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/shonen-and-action-anime/2026/2026-08-06-bleach-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/shonen-and-action-anime/2026/2026-08-06-bleach-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/shonen-and-action-anime/2026/2026-08-06-bleach-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/shonen-and-action-anime/2026/2026-08-06-bleach-cover.png",
+        "hover": "anime/shonen-and-action-anime/2026/2026-08-06-bleach-hover.gif",
+        "thumb": "anime/shonen-and-action-anime/2026/2026-08-06-bleach-thumb.webp"
+      },
+      "bytes": {
+        "cover": 421045,
+        "hover": 480658,
+        "thumb": 24866
+      }
+    },
+    {
+      "id": "2026-08-06-grave-of-the-fireflies",
+      "target_id": "anime/studio-spotlight",
+      "collection_slug": "anime",
+      "folder_slug": "studio-spotlight",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Grave of the Fireflies",
+      "movie_id": 12477,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-cover.png",
+        "hover": "anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-hover.gif",
+        "thumb": "anime/studio-spotlight/2026/2026-08-06-grave-of-the-fireflies-thumb.webp"
+      },
+      "bytes": {
+        "cover": 328862,
+        "hover": 386252,
+        "thumb": 19178
+      }
+    },
+    {
+      "id": "2026-08-06-re-zero-starting-life-in-another-world",
+      "target_id": "anime/isekai-and-fantasy-sagas",
+      "collection_slug": "anime",
+      "folder_slug": "isekai-and-fantasy-sagas",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Re:ZERO -Starting Life in Another World-",
+      "movie_id": 65942,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-cover.png",
+        "hover": "anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-hover.gif",
+        "thumb": "anime/isekai-and-fantasy-sagas/2026/2026-08-06-re-zero-starting-life-in-another-world-thumb.webp"
+      },
+      "bytes": {
+        "cover": 261958,
+        "hover": 317800,
+        "thumb": 16602
+      }
+    },
+    {
+      "id": "2026-08-06-kamisama-kiss",
+      "target_id": "anime/slice-of-life-and-romance",
+      "collection_slug": "anime",
+      "folder_slug": "slice-of-life-and-romance",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Kamisama Kiss",
+      "movie_id": 62741,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-cover.png",
+        "hover": "anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-hover.gif",
+        "thumb": "anime/slice-of-life-and-romance/2026/2026-08-06-kamisama-kiss-thumb.webp"
+      },
+      "bytes": {
+        "cover": 296628,
+        "hover": 353223,
+        "thumb": 12404
+      }
+    },
+    {
+      "id": "2026-08-06-slam-dunk",
+      "target_id": "anime/sports-and-competition-anime",
+      "collection_slug": "anime",
+      "folder_slug": "sports-and-competition-anime",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Slam Dunk",
+      "movie_id": 42573,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-thumb.webp"
+      },
+      "paths": {
+        "cover": "anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-cover.png",
+        "hover": "anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-hover.gif",
+        "thumb": "anime/sports-and-competition-anime/2026/2026-08-06-slam-dunk-thumb.webp"
+      },
+      "bytes": {
+        "cover": 428766,
+        "hover": 497067,
+        "thumb": 19746
+      }
+    },
+    {
+      "id": "2026-08-06-girl-in-the-picture",
+      "target_id": "documentaries/true-crime-and-serial-killers",
+      "collection_slug": "documentaries",
+      "folder_slug": "true-crime-and-serial-killers",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Girl in the Picture",
+      "movie_id": 988046,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-cover.png",
+        "hover": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-hover.gif",
+        "thumb": "documentaries/true-crime-and-serial-killers/2026/2026-08-06-girl-in-the-picture-thumb.webp"
+      },
+      "bytes": {
+        "cover": 175652,
+        "hover": 230218,
+        "thumb": 8784
+      }
+    },
+    {
+      "id": "2026-08-06-planet-earth-ii",
+      "target_id": "documentaries/nature-wildlife-and-earth",
+      "collection_slug": "documentaries",
+      "folder_slug": "nature-wildlife-and-earth",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Planet Earth II",
+      "movie_id": 68595,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-cover.png",
+        "hover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-hover.gif",
+        "thumb": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-planet-earth-ii-thumb.webp"
+      },
+      "bytes": {
+        "cover": 422049,
+        "hover": 509773,
+        "thumb": 19164
+      }
+    },
+    {
+      "id": "2026-08-06-formula-1-drive-to-survive",
+      "target_id": "documentaries/sports-and-athletic-stories",
+      "collection_slug": "documentaries",
+      "folder_slug": "sports-and-athletic-stories",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Formula 1: Drive to Survive",
+      "movie_id": 87083,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-cover.png",
+        "hover": "documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-hover.gif",
+        "thumb": "documentaries/sports-and-athletic-stories/2026/2026-08-06-formula-1-drive-to-survive-thumb.webp"
+      },
+      "bytes": {
+        "cover": 466294,
+        "hover": 545129,
+        "thumb": 19804
+      }
+    },
+    {
+      "id": "2026-08-06-billie-eilish-the-world-s-a-little-blurry",
+      "target_id": "documentaries/music-and-concert-documentaries",
+      "collection_slug": "documentaries",
+      "folder_slug": "music-and-concert-documentaries",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Billie Eilish: The World's a Little Blurry",
+      "movie_id": 654754,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-cover.png",
+        "hover": "documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-hover.gif",
+        "thumb": "documentaries/music-and-concert-documentaries/2026/2026-08-06-billie-eilish-the-world-s-a-little-blurry-thumb.webp"
+      },
+      "bytes": {
+        "cover": 256797,
+        "hover": 330447,
+        "thumb": 10402
+      }
+    },
+    {
+      "id": "2026-08-06-the-world-at-war",
+      "target_id": "documentaries/history-war-and-civilizations",
+      "collection_slug": "documentaries",
+      "folder_slug": "history-war-and-civilizations",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The World at War",
+      "movie_id": 751,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-cover.png",
+        "hover": "documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-hover.gif",
+        "thumb": "documentaries/history-war-and-civilizations/2026/2026-08-06-the-world-at-war-thumb.webp"
+      },
+      "bytes": {
+        "cover": 437807,
+        "hover": 484839,
+        "thumb": 31472
+      }
+    },
+    {
+      "id": "2026-08-06-mythbusters",
+      "target_id": "documentaries/science-tech-and-cosmos",
+      "collection_slug": "documentaries",
+      "folder_slug": "science-tech-and-cosmos",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "MythBusters",
+      "movie_id": 1428,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-cover.png",
+        "hover": "documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-hover.gif",
+        "thumb": "documentaries/science-tech-and-cosmos/2026/2026-08-06-mythbusters-thumb.webp"
+      },
+      "bytes": {
+        "cover": 445211,
+        "hover": 510671,
+        "thumb": 18540
+      }
+    },
+    {
+      "id": "2026-08-06-britney-vs-spears",
+      "target_id": "documentaries/investigative-and-scandals",
+      "collection_slug": "documentaries",
+      "folder_slug": "investigative-and-scandals",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Britney vs. Spears",
+      "movie_id": 797594,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-cover.png",
+        "hover": "documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-hover.gif",
+        "thumb": "documentaries/investigative-and-scandals/2026/2026-08-06-britney-vs-spears-thumb.webp"
+      },
+      "bytes": {
+        "cover": 488967,
+        "hover": 542234,
+        "thumb": 12570
+      }
+    },
+    {
+      "id": "2026-08-06-swapped",
+      "target_id": "kids-and-family/discover-family",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "discover-family",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Swapped",
+      "movie_id": 1007757,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/discover-family/2026/2026-08-06-swapped-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/discover-family/2026/2026-08-06-swapped-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/discover-family/2026/2026-08-06-swapped-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/discover-family/2026/2026-08-06-swapped-cover.png",
+        "hover": "kids-and-family/discover-family/2026/2026-08-06-swapped-hover.gif",
+        "thumb": "kids-and-family/discover-family/2026/2026-08-06-swapped-thumb.webp"
+      },
+      "bytes": {
+        "cover": 373275,
+        "hover": 439639,
+        "thumb": 12484
+      }
+    },
+    {
+      "id": "2026-08-06-toy-story-2",
+      "target_id": "kids-and-family/animated-studio-spotlight",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "animated-studio-spotlight",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Toy Story 2",
+      "movie_id": 863,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-cover.png",
+        "hover": "kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-hover.gif",
+        "thumb": "kids-and-family/animated-studio-spotlight/2026/2026-08-06-toy-story-2-thumb.webp"
+      },
+      "bytes": {
+        "cover": 314890,
+        "hover": 365283,
+        "thumb": 18910
+      }
+    },
+    {
+      "id": "2026-08-06-it-s-a-wonderful-life",
+      "target_id": "kids-and-family/family-movie-night",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "family-movie-night",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "It's a Wonderful Life",
+      "movie_id": 1585,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-cover.png",
+        "hover": "kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-hover.gif",
+        "thumb": "kids-and-family/family-movie-night/2026/2026-08-06-it-s-a-wonderful-life-thumb.webp"
+      },
+      "bytes": {
+        "cover": 381761,
+        "hover": 451323,
+        "thumb": 16562
+      }
+    },
+    {
+      "id": "2026-08-06-rugrats",
+      "target_id": "kids-and-family/saturday-morning-and-nostalgic-cartoons",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "saturday-morning-and-nostalgic-cartoons",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Rugrats",
+      "movie_id": 3022,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-cover.png",
+        "hover": "kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-hover.gif",
+        "thumb": "kids-and-family/saturday-morning-and-nostalgic-cartoons/2026/2026-08-06-rugrats-thumb.webp"
+      },
+      "bytes": {
+        "cover": 363523,
+        "hover": 415413,
+        "thumb": 25152
+      }
+    },
+    {
+      "id": "2026-08-06-arthur",
+      "target_id": "kids-and-family/preschool-toddlers-and-little-kids",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "preschool-toddlers-and-little-kids",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Arthur",
+      "movie_id": 2153,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-cover.png",
+        "hover": "kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-hover.gif",
+        "thumb": "kids-and-family/preschool-toddlers-and-little-kids/2026/2026-08-06-arthur-thumb.webp"
+      },
+      "bytes": {
+        "cover": 482531,
+        "hover": 525684,
+        "thumb": 19972
+      }
+    },
+    {
+      "id": "2026-08-06-phineas-and-ferb",
+      "target_id": "kids-and-family/disney-channel-and-family-tv-series",
+      "collection_slug": "kids-and-family",
+      "folder_slug": "disney-channel-and-family-tv-series",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Phineas and Ferb",
+      "movie_id": 1877,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-thumb.webp"
+      },
+      "paths": {
+        "cover": "kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-cover.png",
+        "hover": "kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-hover.gif",
+        "thumb": "kids-and-family/disney-channel-and-family-tv-series/2026/2026-08-06-phineas-and-ferb-thumb.webp"
+      },
+      "bytes": {
+        "cover": 335332,
+        "hover": 385086,
+        "thumb": 20292
+      }
+    },
+    {
+      "id": "2026-08-06-the-voice",
+      "target_id": "reality-tv/discover-reality-tv",
+      "collection_slug": "reality-tv",
+      "folder_slug": "discover-reality-tv",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Voice",
+      "movie_id": 37678,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-cover.png",
+        "hover": "reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-hover.gif",
+        "thumb": "reality-tv/discover-reality-tv/2026/2026-08-06-the-voice-thumb.webp"
+      },
+      "bytes": {
+        "cover": 259774,
+        "hover": 305032,
+        "thumb": 12404
+      }
+    },
+    {
+      "id": "2026-08-06-mythbusters",
+      "target_id": "reality-tv/high-stakes-competition-and-survival",
+      "collection_slug": "reality-tv",
+      "folder_slug": "high-stakes-competition-and-survival",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "MythBusters",
+      "movie_id": 1428,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-cover.png",
+        "hover": "reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-hover.gif",
+        "thumb": "reality-tv/high-stakes-competition-and-survival/2026/2026-08-06-mythbusters-thumb.webp"
+      },
+      "bytes": {
+        "cover": 446374,
+        "hover": 508075,
+        "thumb": 19330
+      }
+    },
+    {
+      "id": "2026-08-06-love-island-usa",
+      "target_id": "reality-tv/juicy-drama-dating-and-relationship",
+      "collection_slug": "reality-tv",
+      "folder_slug": "juicy-drama-dating-and-relationship",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Love Island USA",
+      "movie_id": 90521,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-cover.png",
+        "hover": "reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-hover.gif",
+        "thumb": "reality-tv/juicy-drama-dating-and-relationship/2026/2026-08-06-love-island-usa-thumb.webp"
+      },
+      "bytes": {
+        "cover": 313723,
+        "hover": 367647,
+        "thumb": 12680
+      }
+    },
+    {
+      "id": "2026-08-06-top-gear",
+      "target_id": "reality-tv/culinary-battles-and-cooking-shows",
+      "collection_slug": "reality-tv",
+      "folder_slug": "culinary-battles-and-cooking-shows",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "Top Gear",
+      "movie_id": 45,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-cover.png",
+        "hover": "reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-hover.gif",
+        "thumb": "reality-tv/culinary-battles-and-cooking-shows/2026/2026-08-06-top-gear-thumb.webp"
+      },
+      "bytes": {
+        "cover": 497839,
+        "hover": 501864,
+        "thumb": 22354
+      }
+    },
+    {
+      "id": "2026-08-06-rupaul-s-drag-race",
+      "target_id": "reality-tv/real-estate-home-and-lifestyle-makeovers",
+      "collection_slug": "reality-tv",
+      "folder_slug": "real-estate-home-and-lifestyle-makeovers",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "RuPaul's Drag Race",
+      "movie_id": 8514,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-cover.png",
+        "hover": "reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-hover.gif",
+        "thumb": "reality-tv/real-estate-home-and-lifestyle-makeovers/2026/2026-08-06-rupaul-s-drag-race-thumb.webp"
+      },
+      "bytes": {
+        "cover": 262012,
+        "hover": 337856,
+        "thumb": 12478
+      }
+    },
+    {
+      "id": "2026-08-06-the-voice",
+      "target_id": "reality-tv/game-shows-talent-and-trivia",
+      "collection_slug": "reality-tv",
+      "folder_slug": "game-shows-talent-and-trivia",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T01:40:50Z",
+      "movie_title": "The Voice",
+      "movie_id": 37678,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-thumb.webp"
+      },
+      "paths": {
+        "cover": "reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-cover.png",
+        "hover": "reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-hover.gif",
+        "thumb": "reality-tv/game-shows-talent-and-trivia/2026/2026-08-06-the-voice-thumb.webp"
+      },
+      "bytes": {
+        "cover": 262125,
+        "hover": 312199,
+        "thumb": 13306
+      }
     }
   ],
-  "updated_at": "2026-08-06T01:07:04Z"
+  "updated_at": "2026-08-06T01:40:50Z"
 }
