@@ -1874,7 +1874,33 @@
         "hover": 319280,
         "thumb": 8680
       }
+    },
+    {
+      "id": "2026-08-06-our-planet",
+      "target_id": "documentaries/nature-wildlife-and-earth",
+      "collection_slug": "documentaries",
+      "folder_slug": "nature-wildlife-and-earth",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:09:21Z",
+      "movie_title": "Our Planet",
+      "movie_id": 83880,
+      "media_type": "tv",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-cover.png",
+        "hover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-hover.gif",
+        "thumb": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-our-planet-thumb.webp"
+      },
+      "bytes": {
+        "cover": 326698,
+        "hover": 428880,
+        "thumb": 9410
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:09:14Z"
+  "updated_at": "2026-08-06T05:09:21Z"
 }
