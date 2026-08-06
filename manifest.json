@@ -3694,7 +3694,33 @@
         "hover": 213724,
         "thumb": 9280
       }
+    },
+    {
+      "id": "2026-08-06-the-mask",
+      "target_id": "moods-and-vibes/cozy-and-comforting",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "cozy-and-comforting",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T16:33:08Z",
+      "movie_title": "The Mask",
+      "movie_id": 854,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-cover.png",
+        "hover": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-hover.gif",
+        "thumb": "moods-and-vibes/cozy-and-comforting/2026/2026-08-06-the-mask-thumb.webp"
+      },
+      "bytes": {
+        "cover": 143486,
+        "hover": 204066,
+        "thumb": 7622
+      }
     }
   ],
-  "updated_at": "2026-08-06T16:32:54Z"
+  "updated_at": "2026-08-06T16:33:08Z"
 }
