@@ -1666,7 +1666,33 @@
         "hover": 278880,
         "thumb": 11880
       }
+    },
+    {
+      "id": "2026-08-06-david-attenborough-a-life-on-our-planet",
+      "target_id": "documentaries/nature-wildlife-and-earth",
+      "collection_slug": "documentaries",
+      "folder_slug": "nature-wildlife-and-earth",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T04:34:56Z",
+      "movie_title": "David Attenborough: A Life on Our Planet",
+      "movie_id": 664280,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-cover.png",
+        "hover": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-hover.gif",
+        "thumb": "documentaries/nature-wildlife-and-earth/2026/2026-08-06-david-attenborough-a-life-on-our-planet-thumb.webp"
+      },
+      "bytes": {
+        "cover": 200201,
+        "hover": 282285,
+        "thumb": 9326
+      }
     }
   ],
-  "updated_at": "2026-08-06T04:34:01Z"
+  "updated_at": "2026-08-06T04:34:56Z"
 }
