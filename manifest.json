@@ -2004,7 +2004,33 @@
         "hover": 516769,
         "thumb": 21250
       }
+    },
+    {
+      "id": "2026-08-06-enron-the-smartest-guys-in-the-room",
+      "target_id": "documentaries/investigative-and-scandals",
+      "collection_slug": "documentaries",
+      "folder_slug": "investigative-and-scandals",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:10:01Z",
+      "movie_title": "Enron: The Smartest Guys in the Room",
+      "movie_id": 13020,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-thumb.webp"
+      },
+      "paths": {
+        "cover": "documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-cover.png",
+        "hover": "documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-hover.gif",
+        "thumb": "documentaries/investigative-and-scandals/2026/2026-08-06-enron-the-smartest-guys-in-the-room-thumb.webp"
+      },
+      "bytes": {
+        "cover": 267770,
+        "hover": 367761,
+        "thumb": 14184
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:09:53Z"
+  "updated_at": "2026-08-06T05:10:01Z"
 }
