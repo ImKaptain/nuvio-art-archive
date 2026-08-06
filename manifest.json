@@ -3824,7 +3824,33 @@
         "hover": 453967,
         "thumb": 26054
       }
+    },
+    {
+      "id": "2026-08-06-green-book",
+      "target_id": "moods-and-vibes/feel-good",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "feel-good",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T16:49:11Z",
+      "movie_title": "Green Book",
+      "movie_id": 490132,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-green-book-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-green-book-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/feel-good/2026/2026-08-06-green-book-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/feel-good/2026/2026-08-06-green-book-cover.png",
+        "hover": "moods-and-vibes/feel-good/2026/2026-08-06-green-book-hover.gif",
+        "thumb": "moods-and-vibes/feel-good/2026/2026-08-06-green-book-thumb.webp"
+      },
+      "bytes": {
+        "cover": 237612,
+        "hover": 257503,
+        "thumb": 10596
+      }
     }
   ],
-  "updated_at": "2026-08-06T16:48:03Z"
+  "updated_at": "2026-08-06T16:49:11Z"
 }
