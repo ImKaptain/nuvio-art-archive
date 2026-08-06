@@ -2082,7 +2082,33 @@
         "hover": 259903,
         "thumb": 9926
       }
+    },
+    {
+      "id": "2026-08-06-voicemails-for-isabelle",
+      "target_id": "moods-and-vibes/tearjerkers",
+      "collection_slug": "moods-and-vibes",
+      "folder_slug": "tearjerkers",
+      "date": "2026-08-06",
+      "created_at": "2026-08-06T05:10:26Z",
+      "movie_title": "Voicemails for Isabelle",
+      "movie_id": 614945,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-thumb.webp"
+      },
+      "paths": {
+        "cover": "moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-cover.png",
+        "hover": "moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-hover.gif",
+        "thumb": "moods-and-vibes/tearjerkers/2026/2026-08-06-voicemails-for-isabelle-thumb.webp"
+      },
+      "bytes": {
+        "cover": 184650,
+        "hover": 256359,
+        "thumb": 9502
+      }
     }
   ],
-  "updated_at": "2026-08-06T05:10:18Z"
+  "updated_at": "2026-08-06T05:10:26Z"
 }
