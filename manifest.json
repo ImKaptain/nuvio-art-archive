@@ -5410,7 +5410,33 @@
         "hover": 684237,
         "thumb": 40516
       }
+    },
+    {
+      "id": "2026-08-07-parasite",
+      "target_id": "genres/k-drama",
+      "collection_slug": "genres",
+      "folder_slug": "k-drama",
+      "date": "2026-08-07",
+      "created_at": "2026-08-07T22:28:42Z",
+      "movie_title": "Parasite",
+      "movie_id": 496243,
+      "media_type": "movie",
+      "files": {
+        "cover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/k-drama/2026/2026-08-07-parasite-cover.png",
+        "hover": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/k-drama/2026/2026-08-07-parasite-hover.gif",
+        "thumb": "https://raw.githubusercontent.com/ImKaptain/nuvio-art-archive/main/genres/k-drama/2026/2026-08-07-parasite-thumb.webp"
+      },
+      "paths": {
+        "cover": "genres/k-drama/2026/2026-08-07-parasite-cover.png",
+        "hover": "genres/k-drama/2026/2026-08-07-parasite-hover.gif",
+        "thumb": "genres/k-drama/2026/2026-08-07-parasite-thumb.webp"
+      },
+      "bytes": {
+        "cover": 586227,
+        "hover": 694278,
+        "thumb": 19758
+      }
     }
   ],
-  "updated_at": "2026-08-06T17:24:04Z"
+  "updated_at": "2026-08-07T22:28:42Z"
 }
